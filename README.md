@@ -4,7 +4,7 @@ VidOptix is a 3rd-semester Project-Based Learning (PBL) project exploring core c
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The pipeline breaks video sequences into individual frames and applies classical transformation, quantization, and entropy encoding algorithms.
 
 ### Key Components & DSA Concepts
